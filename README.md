@@ -1,5 +1,5 @@
 # jrpn3
- Attempt to recover a very old calculator project of mine.
+ Attempt to recover a very old calculator project of mine. Almost certainly originally written for Java 1.1 - I would do lots of things differently now.
 
 A full RPN (Reverse Polish Notation) scientific calculator. Physically modelled after the HP 11c/12c/15c layout, but not programmable and without many of the special functions.
 
